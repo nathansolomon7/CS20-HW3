@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="styles.css"?>
+<SetList>
+    
+    <Artist>
+        <ArtistName>Bruno Mars</ArtistName>
+        <SongName>24K Magic</SongName>
+        <ReleaseDate>2016</ReleaseDate>
+        <Genre>Pop</Genre>
+    </Artist>
+    <Artist>
+        <ArtistName>Bruno Mars</ArtistName>
+        <SongName>Grenade</SongName>
+        <ReleaseDate>2010</ReleaseDate>
+        <Genre>RnB</Genre>
+    </Artist>
+    <Artist>
+        <ArtistName>Eminem</ArtistName>
+        <SongName>Lose Yourself</SongName>
+        <ReleaseDate>2002</ReleaseDate>
+        <Genre>Hip-Hop</Genre>
+    </Artist>
+    <Artist>
+        <ArtistName>Eminem</ArtistName>
+        <SongName>Without Me</SongName>
+        <ReleaseDate>2002</ReleaseDate>
+        <Genre>Hip-Hop</Genre>
+    </Artist>
+    <Artist>
+        <ArtistName>Imagine Dragons</ArtistName>
+        <SongName>Radioactive</SongName>
+        <ReleaseDate>2012</ReleaseDate>
+        <Genre>Alternative Rock</Genre>
+    </Artist>
+    <Artist>
+        <ArtistName>Imagine Dragons</ArtistName>
+        <SongName>Demons</SongName>
+        <ReleaseDate>2012</ReleaseDate>
+        <Genre>Alternative Rock</Genre>
+    </Artist>
+    <Artist>
+        <ArtistName>Frank Ocean</ArtistName>
+        <SongName>Sweet Life</SongName>
+        <ReleaseDate>2012</ReleaseDate>
+        <Genre>RnB</Genre>
+    </Artist>
+    <Artist>
+        <ArtistName>Kendrick Lamar</ArtistName>
+        <SongName>Pride</SongName>
+        <ReleaseDate>2016</ReleaseDate>
+        <Genre>Hip-Hop</Genre>
+    </Artist>
+    <Artist>
+        <ArtistName>Frank Ocean</ArtistName>
+        <SongName>Novacane</SongName>
+        <ReleaseDate>2011</ReleaseDate>
+        <Genre>RnB</Genre>
+    </Artist>
+    <Artist>
+        <ArtistName>Kendrick Lamar</ArtistName>
+        <SongName>Alright</SongName>
+        <ReleaseDate>2015</ReleaseDate>
+        <Genre>Hip-Hop</Genre>
+    </Artist>
+    
+</SetList>

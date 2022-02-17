@@ -1,0 +1,26 @@
+SetList{
+    background: white;
+    font-size:20px;
+}
+Artist{
+    display:block;
+    margin-top: 20px;
+    margin-bottom: 25px;
+    padding-left: 25px;
+}
+
+SongName{
+    display:block;
+}
+
+ReleaseDate{
+    display:block;
+}
+
+Genre{
+    display:block;
+}
+
+ArtistName{
+    font-weight: bold;
+}
